@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-:mexico: / :us: <br/>
+:mexico: - :us: <br/>
 
 :books: I’m currently learning React :atom_symbol:
 
