@@ -1,5 +1,8 @@
 ### Hello there!
 
+
+I'm Jessica, and I'm a computer scientist.
+
 <!--
 **22jessie/22jessie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
