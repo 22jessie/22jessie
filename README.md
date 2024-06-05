@@ -1,7 +1,7 @@
 ### Hello there!
 
 
-I'm Jessica, and I'm a computer scientist.
+My name is :sparkles: Jessica :sparkles:, and I'm a computer scientist.  :woman_technologist:  
 
 <!--
 **22jessie/22jessie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-:mexico: - :us: <br/>
+
 
 :books: I’m currently learning React :atom_symbol:
+
+:speaking_head: My mother tongue is Spanish, but I speak English fluently and I'm learning German. 
 
 :black_cat: Pronouns: She/Her <br/>
