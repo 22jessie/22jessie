@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-:books: I’m currently learning React :atom_symbol:
+:books: I want to learn next.js :atom_symbol:
 
 :speaking_head: My mother tongue is Spanish, but I speak English fluently and I'm learning German. 
 
